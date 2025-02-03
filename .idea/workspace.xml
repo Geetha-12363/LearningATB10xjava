@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="new code added">
-      <change afterPath="$PROJECT_DIR$/src/javaprogram_29thtask/Even_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprogram_29thtask/Max_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprogram_29thtask/Person_Vote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprogram_29thtask/Vowel_Consonant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprogram_29thtask/positive_negative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprogram_30thtask/Leap_year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprogram_30thtask/Mark_Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprogram_30thtask/Maximum_Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprogram_30thtask/Smallest_Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprogram_30thtask/Smallest_Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringfunctions/Example_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringfunctions/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringfunctions/Scp_Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,41 +53,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Even_Odd.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Lab001_HelloWorldProgram.executor": "Run",
-    "Application.Lab002_shortcut.executor": "Run",
-    "Application.Lab003_NoMainMethod.executor": "Run",
-    "Application.Lab004_Comments.executor": "Run",
-    "Application.Lab005_Multicomments.executor": "Run",
-    "Application.Lab006_comments_shortcut.executor": "Run",
-    "Application.Lab007_comments.executor": "Run",
-    "Application.Lab009_Keyword_identifier.executor": "Run",
-    "Application.Lab010_Common_Math.executor": "Run",
-    "Application.Lab011_Common_Math_Exception.executor": "Run",
-    "Application.Lab012_println_print.executor": "Run",
-    "Application.Max_two.executor": "Run",
-    "Application.Maximum_2.executor": "Run",
-    "Application.Person_Vote.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Vowel_Consonant.executor": "Run",
-    "Application.positive_negative.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_HelloWorldProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_shortcut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003_NoMainMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_Multicomments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006_comments_shortcut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_Keyword_identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010_Common_Math.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab011_Common_Math_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012_println_print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Length_CharAt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mark_Grade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_two.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_Three.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person_Vote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scp_Heap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Three.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Two.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vowel_Consonant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.positive_negative.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Person_Vote">
-    <configuration name="Even_Odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogram_29thtask.Even_Odd" />
+}</component>
+  <component name="RunManager" selected="Application.Example_String">
+    <configuration name="Example_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringfunctions.Example_String" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprogram_29thtask.*" />
+          <option name="PATTERN" value="stringfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogram_29thtask.Max_two" />
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringfunctions.Functions" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprogram_29thtask.*" />
+          <option name="PATTERN" value="stringfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person_Vote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogram_29thtask.Person_Vote" />
+    <configuration name="Leap_year" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprogram_30thtask.Leap_year" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprogram_29thtask.*" />
+          <option name="PATTERN" value="javaprogram_30thtask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vowel_Consonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogram_29thtask.Vowel_Consonant" />
+    <configuration name="Mark_Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaprogram_30thtask.Mark_Grade" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprogram_29thtask.*" />
+          <option name="PATTERN" value="javaprogram_30thtask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="positive_negative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaprogram_29thtask.positive_negative" />
+    <configuration name="Scp_Heap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringfunctions.Scp_Heap" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaprogram_29thtask.*" />
+          <option name="PATTERN" value="stringfunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Person_Vote" />
-        <item itemvalue="Application.Vowel_Consonant" />
-        <item itemvalue="Application.Max_two" />
-        <item itemvalue="Application.Even_Odd" />
-        <item itemvalue="Application.positive_negative" />
+        <item itemvalue="Application.Example_String" />
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.Scp_Heap" />
+        <item itemvalue="Application.Mark_Grade" />
+        <item itemvalue="Application.Leap_year" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738316534245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new code added">
+      <option name="closed" value="true" />
+      <created>1738332695829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738332695829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
