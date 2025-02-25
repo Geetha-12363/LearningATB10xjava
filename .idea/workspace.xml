@@ -4,14 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="9th feb">
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/Datatypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/Instancevariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/LocalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/LocalVariable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Constants_literals/Variables1.java" afterDir="false" />
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="11th feb">
+      <change afterPath="$PROJECT_DIR$/src/literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/ALLoperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/AND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/And_Or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Bodmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Boolean_literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Char_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Comparison_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Concat_Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Literal_Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Literals1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Literals2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Literals3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Literals_p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Logicaloperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Modulas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/NewOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/NonPrimitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Unaryoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/literals_iq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +78,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ALLoperators.executor": "Run",
+    "Application.AND.executor": "Run",
+    "Application.And_Or.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Array_1D.executor": "Run",
     "Application.Array_Reverseorder.executor": "Run",
@@ -66,7 +93,12 @@
     "Application.Arrays_Foreach.executor": "Run",
     "Application.Arrays_InterviewQ.executor": "Run",
     "Application.Atbx.executor": "Run",
+    "Application.Bodmas.executor": "Run",
     "Application.Cat.executor": "Run",
+    "Application.Char_Literals.executor": "Run",
+    "Application.Comparison_Operator.executor": "Run",
+    "Application.Concat.executor": "Run",
+    "Application.Concat_Plus.executor": "Run",
     "Application.Const.executor": "Run",
     "Application.Datatypes.executor": "Run",
     "Application.Even_Odd.executor": "Run",
@@ -80,7 +112,14 @@
     "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Hello_five.executor": "Run",
+    "Application.InstanceOf.executor": "Run",
     "Application.Instancevariable.executor": "Run",
+    "Application.Interview_Q1.executor": "Run",
+    "Application.Interview_q.executor": "Run",
+    "Application.Interview_q2.executor": "Run",
+    "Application.Interview_q4.executor": "Run",
+    "Application.Interview_q5.executor": "Run",
+    "Application.Interview_q6.executor": "Run",
     "Application.Inverted_Pyramidpattern.executor": "Run",
     "Application.Inverted_Rightangletriangle.executor": "Run",
     "Application.Lab001_HelloWorldProgram.executor": "Run",
@@ -101,18 +140,26 @@
     "Application.Leap_year.executor": "Run",
     "Application.Length_CharAt.executor": "Run",
     "Application.Literals.executor": "Run",
+    "Application.Literals2.executor": "Run",
+    "Application.Literals3.executor": "Run",
+    "Application.Literals_p3.executor": "Run",
     "Application.LocalVariable2.executor": "Run",
+    "Application.Logicaloperator.executor": "Run",
     "Application.Mark_Grade.executor": "Run",
     "Application.Marks.executor": "Run",
     "Application.Max_two.executor": "Run",
     "Application.Maximum_2.executor": "Run",
     "Application.Maximum_Three.executor": "Run",
+    "Application.Modulas.executor": "Run",
     "Application.Mul.executor": "Run",
     "Application.Multiplication_five.executor": "Run",
     "Application.Multiplication_seven.executor": "Run",
+    "Application.NewOperator.executor": "Run",
     "Application.One_Ten.executor": "Run",
+    "Application.Operators.executor": "Run",
     "Application.Person_Vote.executor": "Run",
     "Application.Prime_num.executor": "Run",
+    "Application.Relational_Operators.executor": "Run",
     "Application.Reverse_num.executor": "Run",
     "Application.RightAngle_Triangle.executor": "Run",
     "Application.Scp_Heap.executor": "Run",
@@ -124,9 +171,11 @@
     "Application.Table_9.executor": "Run",
     "Application.Task.executor": "Run",
     "Application.Task_one_ten.executor": "Run",
+    "Application.Unaryoperator.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.Variables1.executor": "Run",
     "Application.Vowel_Consonant.executor": "Run",
+    "Application.literals_iq.executor": "Run",
     "Application.one_hundred.executor": "Run",
     "Application.positive_negative.executor": "Run",
     "Application.variable.executor": "Run",
@@ -138,13 +187,13 @@
     "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Datatypes">
-    <configuration name="Datatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_literals.Datatypes" />
+  <component name="RunManager" selected="Application.Interview_q6">
+    <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.InstanceOf" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constants_literals.*" />
+          <option name="PATTERN" value="literals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Instancevariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_literals.Instancevariable" />
+    <configuration name="Interview_q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Interview_q2" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constants_literals.*" />
+          <option name="PATTERN" value="literals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalVariable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_literals.LocalVariable2" />
+    <configuration name="Interview_q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Interview_q4" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constants_literals.*" />
+          <option name="PATTERN" value="literals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_literals.Variables" />
+    <configuration name="Interview_q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Interview_q5" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constants_literals.*" />
+          <option name="PATTERN" value="literals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constants_literals.Variables1" />
+    <configuration name="Interview_q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Interview_q6" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constants_literals.*" />
+          <option name="PATTERN" value="literals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Datatypes" />
-        <item itemvalue="Application.Variables1" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Instancevariable" />
-        <item itemvalue="Application.LocalVariable2" />
+        <item itemvalue="Application.Interview_q6" />
+        <item itemvalue="Application.Interview_q5" />
+        <item itemvalue="Application.Interview_q4" />
+        <item itemvalue="Application.Interview_q2" />
+        <item itemvalue="Application.InstanceOf" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +328,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739426617020</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="11th feb">
+      <option name="closed" value="true" />
+      <created>1740135671836</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740135671836</updated>
+    </task>
+    <task id="LOCAL-00009" summary="11th feb">
+      <option name="closed" value="true" />
+      <created>1740135750184</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740135750184</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -289,7 +354,8 @@
     <MESSAGE value="5th feb" />
     <MESSAGE value="11th jan" />
     <MESSAGE value="9th feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="9th feb" />
+    <MESSAGE value="11th feb" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th feb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,6 +451,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/literals/Concat_Plus.java</url>
+          <line>5</line>
+          <properties class="literals.Concat_Plus" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/literals/NewOperator.java</url>
+          <line>3</line>
+          <properties class="literals.NewOperator" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
