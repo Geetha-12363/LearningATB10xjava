@@ -4,38 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="11th feb">
-      <change afterPath="$PROJECT_DIR$/src/literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/ALLoperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/AND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/And_Or.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Bodmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Boolean_literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Char_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Comparison_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Concat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Concat_Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/InstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Literal_Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Literals1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Literals2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Literals3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Literals_p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Logicaloperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Modulas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/NewOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/NonPrimitive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Relational_Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Unaryoperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/literals_iq.java" afterDir="false" />
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="18th jan 2025">
+      <change afterPath="$PROJECT_DIR$/src/literals/Age_classification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Age_classification1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/CLi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Decrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_even_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Interview_to.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Largest_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Max_two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/Ternary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/To.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/literals/increment_decrement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +61,7 @@
   "keyToString": {
     "Application.ALLoperators.executor": "Run",
     "Application.AND.executor": "Run",
+    "Application.Age_classification.executor": "Run",
     "Application.And_Or.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Array_1D.executor": "Run",
@@ -101,6 +83,7 @@
     "Application.Concat_Plus.executor": "Run",
     "Application.Const.executor": "Run",
     "Application.Datatypes.executor": "Run",
+    "Application.Decrement.executor": "Run",
     "Application.Even_Odd.executor": "Run",
     "Application.Even_no.executor": "Run",
     "Application.Even_number.executor": "Run",
@@ -115,11 +98,13 @@
     "Application.InstanceOf.executor": "Run",
     "Application.Instancevariable.executor": "Run",
     "Application.Interview_Q1.executor": "Run",
+    "Application.Interview_even_odd.executor": "Run",
     "Application.Interview_q.executor": "Run",
     "Application.Interview_q2.executor": "Run",
     "Application.Interview_q4.executor": "Run",
     "Application.Interview_q5.executor": "Run",
     "Application.Interview_q6.executor": "Run",
+    "Application.Interview_to.executor": "Run",
     "Application.Inverted_Pyramidpattern.executor": "Run",
     "Application.Inverted_Rightangletriangle.executor": "Run",
     "Application.Lab001_HelloWorldProgram.executor": "Run",
@@ -137,6 +122,7 @@
     "Application.Lab015_Variable.executor": "Run",
     "Application.Lab016_variable.executor": "Run",
     "Application.Lab019_interview_QnA.executor": "Run",
+    "Application.Largest_3.executor": "Run",
     "Application.Leap_year.executor": "Run",
     "Application.Length_CharAt.executor": "Run",
     "Application.Literals.executor": "Run",
@@ -171,10 +157,17 @@
     "Application.Table_9.executor": "Run",
     "Application.Task.executor": "Run",
     "Application.Task_one_ten.executor": "Run",
+    "Application.Ternary_operator.executor": "Run",
+    "Application.To.executor": "Run",
     "Application.Unaryoperator.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.Variables1.executor": "Run",
     "Application.Vowel_Consonant.executor": "Run",
+    "Application.increment_decrement.executor": "Run",
+    "Application.increment_decrementp.executor": "Run",
+    "Application.literals.Age_classification1.executor": "Run",
+    "Application.literals.CLi.executor": "Run",
+    "Application.literals.Max_two.executor": "Run",
     "Application.literals_iq.executor": "Run",
     "Application.one_hundred.executor": "Run",
     "Application.positive_negative.executor": "Run",
@@ -187,9 +180,23 @@
     "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Interview_q6">
-    <configuration name="InstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.InstanceOf" />
+  <component name="RunManager" selected="Application.literals.Max_two">
+    <configuration name="CLi" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Decrement" />
+      <module name="LearningATB10xjava" />
+      <option name="PROGRAM_PARAMETERS" value="27,geetha,50000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="literals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Increment" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
@@ -201,9 +208,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Interview_q2" />
+    <configuration name="Max_two" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="literals.CLi" />
       <module name="LearningATB10xjava" />
+      <option name="PROGRAM_PARAMETERS" value="20 30" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="literals.*" />
@@ -214,9 +222,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Interview_q4" />
+    <configuration name="literals.Age_classification1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Age_classification1" />
       <module name="LearningATB10xjava" />
+      <option name="PROGRAM_PARAMETERS" value="65" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="literals.*" />
@@ -227,9 +236,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Interview_q5" />
+    <configuration name="literals.Max_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="literals.Max_two" />
       <module name="LearningATB10xjava" />
+      <option name="PROGRAM_PARAMETERS" value="10 20" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="literals.*" />
@@ -240,26 +250,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Interview_q6" />
-      <module name="LearningATB10xjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="literals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.literals.Max_two" />
+      <item itemvalue="Application.Max_two" />
+      <item itemvalue="Application.CLi" />
+      <item itemvalue="Application.Increment" />
+      <item itemvalue="Application.literals.Age_classification1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interview_q6" />
-        <item itemvalue="Application.Interview_q5" />
-        <item itemvalue="Application.Interview_q4" />
-        <item itemvalue="Application.Interview_q2" />
-        <item itemvalue="Application.InstanceOf" />
+        <item itemvalue="Application.literals.Max_two" />
+        <item itemvalue="Application.Max_two" />
+        <item itemvalue="Application.CLi" />
+        <item itemvalue="Application.Increment" />
+        <item itemvalue="Application.literals.Age_classification1" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740135750184</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="18th jan 2025">
+      <option name="closed" value="true" />
+      <created>1740481284709</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740481284709</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -355,7 +367,8 @@
     <MESSAGE value="11th jan" />
     <MESSAGE value="9th feb" />
     <MESSAGE value="11th feb" />
-    <option name="LAST_COMMIT_MESSAGE" value="11th feb" />
+    <MESSAGE value="18th jan 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th jan 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
