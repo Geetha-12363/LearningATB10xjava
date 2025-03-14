@@ -4,19 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="18th jan 2025">
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="19th jan 2025">
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab001_HelloWorldProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab002_shortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab003_NoMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab004_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab005_Multicomments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab006_comments_shortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab007_comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab008_Keywords_Identifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab009_Keyword_identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab010_Common_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab011_Common_Math_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab012_println_print.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/literals/Age_classification.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/literals/Age_classification1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/CLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Decrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Increment.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/literals/Interview_even_odd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/literals/Interview_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Largest_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Max_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Ternary_operator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/literals/To.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/literals/increment_decrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/Hacker_Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If_else_Interviewq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If_else_Interviewq2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If_else_scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If_elseif_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/If_interviewq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/Odd_Even_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops_conditions/Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,9 +109,18 @@
     "Application.Final.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Geetha.executor": "Run",
+    "Application.Hacker_Rank.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Hello_five.executor": "Run",
+    "Application.If.executor": "Run",
+    "Application.If_else.executor": "Run",
+    "Application.If_else_Interviewq1.executor": "Run",
+    "Application.If_else_Interviewq2.executor": "Run",
+    "Application.If_else_Scanner.executor": "Run",
+    "Application.If_else_scanner.executor": "Run",
+    "Application.If_elseif_else.executor": "Run",
+    "Application.If_interviewq.executor": "Run",
     "Application.InstanceOf.executor": "Run",
     "Application.Instancevariable.executor": "Run",
     "Application.Interview_Q1.executor": "Run",
@@ -141,6 +167,7 @@
     "Application.Multiplication_five.executor": "Run",
     "Application.Multiplication_seven.executor": "Run",
     "Application.NewOperator.executor": "Run",
+    "Application.Odd_Even_program.executor": "Run",
     "Application.One_Ten.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.Person_Vote.executor": "Run",
@@ -159,6 +186,7 @@
     "Application.Task_one_ten.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.To.executor": "Run",
+    "Application.Triangle.executor": "Run",
     "Application.Unaryoperator.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.Variables1.executor": "Run",
@@ -167,7 +195,7 @@
     "Application.increment_decrementp.executor": "Run",
     "Application.literals.Age_classification1.executor": "Run",
     "Application.literals.CLi.executor": "Run",
-    "Application.literals.Max_two.executor": "Run",
+    "Application.literals.Max_two.executor": "Coverage",
     "Application.literals_iq.executor": "Run",
     "Application.one_hundred.executor": "Run",
     "Application.positive_negative.executor": "Run",
@@ -177,17 +205,20 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.literals.Max_two">
-    <configuration name="CLi" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Decrement" />
+  <component name="RunManager" selected="Application.Triangle">
+    <configuration name="Hacker_Rank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_conditions.Hacker_Rank" />
       <module name="LearningATB10xjava" />
-      <option name="PROGRAM_PARAMETERS" value="27,geetha,50000" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="literals.*" />
+          <option name="PATTERN" value="loops_conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Increment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Increment" />
+    <configuration name="If_else_Interviewq2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_conditions.If_else_Interviewq2" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="literals.*" />
+          <option name="PATTERN" value="loops_conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,13 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_two" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="literals.CLi" />
+    <configuration name="If_elseif_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_conditions.If_elseif_else" />
       <module name="LearningATB10xjava" />
-      <option name="PROGRAM_PARAMETERS" value="20 30" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="literals.*" />
+          <option name="PATTERN" value="loops_conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,13 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="literals.Age_classification1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Age_classification1" />
+    <configuration name="Odd_Even_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_conditions.Odd_Even_program" />
       <module name="LearningATB10xjava" />
-      <option name="PROGRAM_PARAMETERS" value="65" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="literals.*" />
+          <option name="PATTERN" value="loops_conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,13 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="literals.Max_two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="literals.Max_two" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops_conditions.Triangle" />
       <module name="LearningATB10xjava" />
-      <option name="PROGRAM_PARAMETERS" value="10 20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="literals.*" />
+          <option name="PATTERN" value="loops_conditions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,19 +279,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.literals.Max_two" />
-      <item itemvalue="Application.Max_two" />
-      <item itemvalue="Application.CLi" />
-      <item itemvalue="Application.Increment" />
-      <item itemvalue="Application.literals.Age_classification1" />
+      <item itemvalue="Application.Hacker_Rank" />
+      <item itemvalue="Application.If_else_Interviewq2" />
+      <item itemvalue="Application.If_elseif_else" />
+      <item itemvalue="Application.Odd_Even_program" />
+      <item itemvalue="Application.Triangle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.literals.Max_two" />
-        <item itemvalue="Application.Max_two" />
-        <item itemvalue="Application.CLi" />
-        <item itemvalue="Application.Increment" />
-        <item itemvalue="Application.literals.Age_classification1" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.Hacker_Rank" />
+        <item itemvalue="Application.If_elseif_else" />
+        <item itemvalue="Application.Odd_Even_program" />
+        <item itemvalue="Application.If_else_Interviewq2" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +384,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740481284709</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="19th jan 2025">
+      <option name="closed" value="true" />
+      <created>1740576511393</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740576511393</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -368,87 +404,88 @@
     <MESSAGE value="9th feb" />
     <MESSAGE value="11th feb" />
     <MESSAGE value="18th jan 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th jan 2025" />
+    <MESSAGE value="19th jan 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th jan 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <url>file://$PROJECT_DIR$/loops/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Feb7th_task/RightAngle_Triangle.java</url>
+          <url>file://$PROJECT_DIR$/loops/Feb7th_task/RightAngle_Triangle.java</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oops/Atbx.java</url>
+          <url>file://$PROJECT_DIR$/loops/oops/Atbx.java</url>
           <line>17</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/oops/Atbx.java</url>
+          <url>file://$PROJECT_DIR$/loops/oops/Atbx.java</url>
           <line>2</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Feb7th_task/one_hundred.java</url>
+          <url>file://$PROJECT_DIR$/loops/Feb7th_task/one_hundred.java</url>
           <line>3</line>
-          <properties class="Feb7th_task.one_hundred" method="main">
+          <properties class="Feb7th_task.one_hundred">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Feb7th_task/RightAngle_Triangle.java</url>
+          <url>file://$PROJECT_DIR$/loops/Feb7th_task/RightAngle_Triangle.java</url>
           <line>5</line>
-          <properties class="Feb7th_task.RightAngle_Triangle" method="main">
+          <properties class="Feb7th_task.RightAngle_Triangle">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/arrays/Arrays1.java</url>
+          <url>file://$PROJECT_DIR$/loops/arrays/Arrays1.java</url>
           <line>3</line>
-          <properties class="arrays.Arrays1" method="main">
+          <properties class="arrays.Arrays1">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/arrays/Array_Strings.java</url>
+          <url>file://$PROJECT_DIR$/loops/arrays/Array_Strings.java</url>
           <line>3</line>
-          <properties class="arrays.Array_Strings" method="main">
+          <properties class="arrays.Array_Strings">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/arrays/Array_Sum.java</url>
+          <url>file://$PROJECT_DIR$/loops/arrays/Array_Sum.java</url>
           <line>3</line>
-          <properties class="arrays.Array_Sum" method="main">
+          <properties class="arrays.Array_Sum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/arrays/Arrays_InterviewQ.java</url>
+          <url>file://$PROJECT_DIR$/loops/arrays/Arrays_InterviewQ.java</url>
           <line>5</line>
-          <properties class="arrays.Arrays_InterviewQ" method="main">
+          <properties class="arrays.Arrays_InterviewQ">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/oops/Lab0112.java</url>
+          <url>file://$PROJECT_DIR$/loops/oops/Lab0112.java</url>
           <line>3</line>
           <properties class="oops.Lab0112">
             <option name="EMULATED" value="true" />
@@ -457,33 +494,47 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Constants_literals/Instancevariable.java</url>
+          <url>file://$PROJECT_DIR$/loops/Constants_literals/Instancevariable.java</url>
           <line>7</line>
-          <properties class="Constants_literals.Variables" method="main">
+          <properties class="Constants_literals.Variables">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/literals/Concat_Plus.java</url>
+          <url>file://$PROJECT_DIR$/loops/literals/Concat_Plus.java</url>
           <line>5</line>
-          <properties class="literals.Concat_Plus" method="main">
+          <properties class="literals.Concat_Plus">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/literals/NewOperator.java</url>
+          <url>file://$PROJECT_DIR$/loops/literals/NewOperator.java</url>
           <line>3</line>
-          <properties class="literals.NewOperator" method="main">
+          <properties class="literals.NewOperator">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/loops_conditions/If_elseif_else.java</url>
+          <line>5</line>
+          <properties class="loops_conditions.If_elseif_else" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearningATB10xjava$literals_Max_two.ic" NAME="literals.Max_two Coverage Results" MODIFIED="1741600688574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>literals.*</FILTER>
+    </SUITE>
   </component>
 </project>
