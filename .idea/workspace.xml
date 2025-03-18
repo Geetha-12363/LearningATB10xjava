@@ -5,30 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="25th jan 2025">
-      <change afterPath="$PROJECT_DIR$/src/functions/Interviewq1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/Interviewq2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/Math_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/User_defined.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/max_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functions/user_defined_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab001_HelloWorldProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab002_shortcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab003_NoMainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab004_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab005_Multicomments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab006_comments_shortcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab007_comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab008_Keywords_Identifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab009_Keyword_identifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab010_Common_Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab011_Common_Math_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaprograms/Lab012_println_print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_even_odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/Interview_to.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/To.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/literals/increment_decrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/String_functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/String_functions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/String_functions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/ex_Stringbuffer_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strings/ex_concat_append.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,6 +177,9 @@
     "Application.Scp_Heap.executor": "Run",
     "Application.Smallest_Three.executor": "Run",
     "Application.Smallest_Two.executor": "Run",
+    "Application.String_functions.executor": "Run",
+    "Application.String_functions1.executor": "Run",
+    "Application.String_functions2.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Sum10.executor": "Run",
     "Application.Switch_Interviewq.executor": "Run",
@@ -203,6 +190,9 @@
     "Application.Table.executor": "Run",
     "Application.Table_9.executor": "Run",
     "Application.Task.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
     "Application.Task_one_ten.executor": "Run",
     "Application.Ternary_operator.executor": "Run",
     "Application.To.executor": "Run",
@@ -217,6 +207,8 @@
     "Application.While2.executor": "Run",
     "Application.While3.executor": "Run",
     "Application.While4.executor": "Run",
+    "Application.ex_Stringbuffer_StringBuilder.executor": "Run",
+    "Application.ex_concat_append.executor": "Run",
     "Application.increment_decrement.executor": "Run",
     "Application.increment_decrementp.executor": "Run",
     "Application.literals.Age_classification1.executor": "Run",
@@ -241,13 +233,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Interviewq2">
-    <configuration name="Interviewq2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.Interviewq2" />
+  <component name="RunManager" selected="Application.ex_Stringbuffer_StringBuilder">
+    <configuration name="String_functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.String_functions" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.Task" />
+    <configuration name="String_functions1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.String_functions1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User_defined" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.User_defined" />
+    <configuration name="String_functions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.String_functions2" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="max_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.max_program" />
+    <configuration name="ex_Stringbuffer_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.ex_Stringbuffer_StringBuilder" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="user_defined_one" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functions.user_defined_one" />
+    <configuration name="ex_concat_append" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strings.ex_concat_append" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functions.*" />
+          <option name="PATTERN" value="strings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,19 +300,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Interviewq2" />
-      <item itemvalue="Application.Task" />
-      <item itemvalue="Application.User_defined" />
-      <item itemvalue="Application.user_defined_one" />
-      <item itemvalue="Application.max_program" />
+      <item itemvalue="Application.String_functions2" />
+      <item itemvalue="Application.ex_Stringbuffer_StringBuilder" />
+      <item itemvalue="Application.ex_concat_append" />
+      <item itemvalue="Application.String_functions" />
+      <item itemvalue="Application.String_functions1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interviewq2" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.user_defined_one" />
-        <item itemvalue="Application.User_defined" />
-        <item itemvalue="Application.max_program" />
+        <item itemvalue="Application.ex_Stringbuffer_StringBuilder" />
+        <item itemvalue="Application.ex_concat_append" />
+        <item itemvalue="Application.String_functions2" />
+        <item itemvalue="Application.String_functions1" />
+        <item itemvalue="Application.String_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -480,6 +472,11 @@
           <url>file://$PROJECT_DIR$/src/loops/For_ten.java</url>
           <line>4</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/strings/ex_concat_append.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/loops/Feb7th_task/one_hundred.java</url>
