@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="25th jan 2025">
-      <change afterPath="$PROJECT_DIR$/src/strings/String_functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/String_functions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/String_functions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/ex_Stringbuffer_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/ex_concat_append.java" afterDir="false" />
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="2nd feb 2025">
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Array4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Second_Largest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/User_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayprograms/User_input_string.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +64,10 @@
     "Application.Age_classification.executor": "Run",
     "Application.And_Or.executor": "Run",
     "Application.Array.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Array2.executor": "Run",
+    "Application.Array3.executor": "Run",
+    "Application.Array4.executor": "Run",
     "Application.Array_1D.executor": "Run",
     "Application.Array_Reverseorder.executor": "Run",
     "Application.Array_String1.executor": "Run",
@@ -161,6 +169,7 @@
     "Application.Max_two.executor": "Run",
     "Application.Maximum_2.executor": "Run",
     "Application.Maximum_Three.executor": "Run",
+    "Application.Min.executor": "Run",
     "Application.Modulas.executor": "Run",
     "Application.Mul.executor": "Run",
     "Application.Multiplication_five.executor": "Run",
@@ -169,12 +178,15 @@
     "Application.Odd_Even_program.executor": "Run",
     "Application.One_Ten.executor": "Run",
     "Application.Operators.executor": "Run",
+    "Application.Pattern.executor": "Run",
     "Application.Person_Vote.executor": "Run",
     "Application.Prime_num.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
+    "Application.Reverse.executor": "Run",
     "Application.Reverse_num.executor": "Run",
     "Application.RightAngle_Triangle.executor": "Run",
     "Application.Scp_Heap.executor": "Run",
+    "Application.Second_Largest.executor": "Run",
     "Application.Smallest_Three.executor": "Run",
     "Application.Smallest_Two.executor": "Run",
     "Application.String_functions.executor": "Run",
@@ -198,7 +210,9 @@
     "Application.To.executor": "Run",
     "Application.Triangle.executor": "Run",
     "Application.Unaryoperator.executor": "Run",
+    "Application.User_Input.executor": "Run",
     "Application.User_defined.executor": "Run",
+    "Application.User_input_string.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.Variables1.executor": "Run",
     "Application.Vowel_Consonant.executor": "Run",
@@ -233,13 +247,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex_Stringbuffer_StringBuilder">
-    <configuration name="String_functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.String_functions" />
+  <component name="RunManager" selected="Application.Pattern">
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayprograms.Pattern" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="arrayprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +261,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_functions1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.String_functions1" />
+    <configuration name="Second_Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayprograms.Second_Largest" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="arrayprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +274,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_functions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.String_functions2" />
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayprograms.Sum" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="arrayprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_Stringbuffer_StringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.ex_Stringbuffer_StringBuilder" />
+    <configuration name="User_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayprograms.User_Input" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="arrayprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_concat_append" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.ex_concat_append" />
+    <configuration name="User_input_string" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayprograms.User_input_string" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="arrayprograms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,19 +314,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.String_functions2" />
-      <item itemvalue="Application.ex_Stringbuffer_StringBuilder" />
-      <item itemvalue="Application.ex_concat_append" />
-      <item itemvalue="Application.String_functions" />
-      <item itemvalue="Application.String_functions1" />
+      <item itemvalue="Application.Pattern" />
+      <item itemvalue="Application.User_input_string" />
+      <item itemvalue="Application.Second_Largest" />
+      <item itemvalue="Application.User_Input" />
+      <item itemvalue="Application.Sum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex_Stringbuffer_StringBuilder" />
-        <item itemvalue="Application.ex_concat_append" />
-        <item itemvalue="Application.String_functions2" />
-        <item itemvalue="Application.String_functions1" />
-        <item itemvalue="Application.String_functions" />
+        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Application.User_input_string" />
+        <item itemvalue="Application.User_Input" />
+        <item itemvalue="Application.Second_Largest" />
+        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742003482793</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2nd feb 2025">
+      <option name="closed" value="true" />
+      <created>1742311399213</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742311399213</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -443,7 +465,8 @@
     <MESSAGE value="18th jan 2025" />
     <MESSAGE value="19th jan 2025" />
     <MESSAGE value="25th jan 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="25th jan 2025" />
+    <MESSAGE value="2nd feb 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd feb 2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -594,6 +617,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arrayprograms/Max.java</url>
+          <line>5</line>
+          <properties class="arrayprograms.Max" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arrayprograms/Sum.java</url>
+          <line>4</line>
+          <properties class="arrayprograms.Sum" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/arrayprograms/Pattern.java</url>
+          <line>3</line>
+          <properties class="arrayprograms.Pattern" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
