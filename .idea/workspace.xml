@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="15th feb 2025-p1">
-      <change afterPath="$PROJECT_DIR$/src/criminal/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulation/Enc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/police/Cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/police/Jrcop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/police/Modifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism/Math_Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism/Method_Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism/Method_Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism/RealExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymerphism/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superkeyword/Lab_180.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/superkeyword/Lab_181.java" afterDir="false" />
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="15th feb 2025-p2">
+      <change afterPath="$PROJECT_DIR$/src/statickeyword/Real.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statickeyword/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statickeyword/Static_Sib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statickeyword/Static_p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/Lab_182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/Lab_183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/Lab_184.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/Lab_185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/Lab_186_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/Lab_187_interface_p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superabstraction/MultipleInheritance_interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -58,218 +57,229 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ALLoperators.executor": "Run",
-    "Application.AND.executor": "Run",
-    "Application.Age_classification.executor": "Run",
-    "Application.And_Or.executor": "Run",
-    "Application.Array.executor": "Run",
-    "Application.Array1.executor": "Run",
-    "Application.Array2.executor": "Run",
-    "Application.Array3.executor": "Run",
-    "Application.Array4.executor": "Run",
-    "Application.Array_1D.executor": "Run",
-    "Application.Array_Reverseorder.executor": "Run",
-    "Application.Array_String1.executor": "Run",
-    "Application.Array_Strings.executor": "Run",
-    "Application.Array_Sum.executor": "Run",
-    "Application.Array_UserInput.executor": "Run",
-    "Application.Array_max.executor": "Run",
-    "Application.Arrays1.executor": "Run",
-    "Application.Arrays_Foreach.executor": "Run",
-    "Application.Arrays_InterviewQ.executor": "Run",
-    "Application.Atb10x.executor": "Run",
-    "Application.Atbx.executor": "Run",
-    "Application.Bodmas.executor": "Run",
-    "Application.Break.executor": "Run",
-    "Application.Cars.executor": "Run",
-    "Application.Cat.executor": "Run",
-    "Application.Cats.executor": "Run",
-    "Application.Char_Literals.executor": "Run",
-    "Application.Comparison_Operator.executor": "Run",
-    "Application.Concat.executor": "Run",
-    "Application.Concat_Plus.executor": "Run",
-    "Application.Const.executor": "Run",
-    "Application.Continue.executor": "Run",
-    "Application.Datatypes.executor": "Run",
-    "Application.Decrement.executor": "Run",
-    "Application.Do_while.executor": "Run",
-    "Application.Do_while1.executor": "Run",
-    "Application.Enc.executor": "Run",
-    "Application.Even_Numbers.executor": "Run",
-    "Application.Even_Odd.executor": "Run",
-    "Application.Even_no.executor": "Run",
-    "Application.Even_number.executor": "Run",
-    "Application.Even_one_fifty.executor": "Run",
-    "Application.Example_String.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Final.executor": "Run",
-    "Application.For_interview4.executor": "Run",
-    "Application.For_interview6.executor": "Run",
-    "Application.For_interviewq.executor": "Run",
-    "Application.For_interviewq2.executor": "Run",
-    "Application.For_interviewq3.executor": "Run",
-    "Application.For_loop.executor": "Run",
-    "Application.For_ten.executor": "Run",
-    "Application.Forloop_decrement.executor": "Run",
-    "Application.Forloop_interviewq7.executor": "Run",
-    "Application.Forloop_interviewq8.executor": "Run",
-    "Application.Functions.executor": "Run",
-    "Application.Geetha.executor": "Run",
-    "Application.Hacker_Rank.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Hello_five.executor": "Run",
-    "Application.If.executor": "Run",
-    "Application.If_else.executor": "Run",
-    "Application.If_else_Interviewq1.executor": "Run",
-    "Application.If_else_Interviewq2.executor": "Run",
-    "Application.If_else_Scanner.executor": "Run",
-    "Application.If_else_scanner.executor": "Run",
-    "Application.If_elseif_else.executor": "Run",
-    "Application.If_interviewq.executor": "Run",
-    "Application.InstanceOf.executor": "Run",
-    "Application.Instancevariable.executor": "Run",
-    "Application.Interview_Q1.executor": "Run",
-    "Application.Interview_even_odd.executor": "Run",
-    "Application.Interview_q.executor": "Run",
-    "Application.Interview_q2.executor": "Run",
-    "Application.Interview_q4.executor": "Run",
-    "Application.Interview_q5.executor": "Run",
-    "Application.Interview_q6.executor": "Run",
-    "Application.Interview_to.executor": "Run",
-    "Application.Interviewq2.executor": "Run",
-    "Application.Inverted_Pyramidpattern.executor": "Run",
-    "Application.Inverted_Rightangletriangle.executor": "Run",
-    "Application.Lab001_HelloWorldProgram.executor": "Run",
-    "Application.Lab002_shortcut.executor": "Run",
-    "Application.Lab003_NoMainMethod.executor": "Run",
-    "Application.Lab004_Comments.executor": "Run",
-    "Application.Lab005_Multicomments.executor": "Run",
-    "Application.Lab006_comments_shortcut.executor": "Run",
-    "Application.Lab007_comments.executor": "Run",
-    "Application.Lab009_Keyword_identifier.executor": "Run",
-    "Application.Lab010_Common_Math.executor": "Run",
-    "Application.Lab0112.executor": "Run",
-    "Application.Lab011_Common_Math_Exception.executor": "Run",
-    "Application.Lab012_println_print.executor": "Run",
-    "Application.Lab015_Variable.executor": "Run",
-    "Application.Lab016_variable.executor": "Run",
-    "Application.Lab019_interview_QnA.executor": "Run",
-    "Application.Lab_159.executor": "Run",
-    "Application.Lab_180.executor": "Run",
-    "Application.Lab_181.executor": "Run",
-    "Application.LamidaExpression_Withoutbreak.executor": "Run",
-    "Application.Largest_3.executor": "Run",
-    "Application.Leap_year.executor": "Run",
-    "Application.Length_CharAt.executor": "Run",
-    "Application.Literals.executor": "Run",
-    "Application.Literals2.executor": "Run",
-    "Application.Literals3.executor": "Run",
-    "Application.Literals_p3.executor": "Run",
-    "Application.LocalVariable2.executor": "Run",
-    "Application.Logicaloperator.executor": "Run",
-    "Application.Mark_Grade.executor": "Run",
-    "Application.Marks.executor": "Run",
-    "Application.Math_program.executor": "Run",
-    "Application.Max.executor": "Run",
-    "Application.Max_two.executor": "Run",
-    "Application.Maximum_2.executor": "Run",
-    "Application.Maximum_Three.executor": "Run",
-    "Application.Method_Overriding.executor": "Run",
-    "Application.Min.executor": "Run",
-    "Application.Modifiers.executor": "Run",
-    "Application.Modulas.executor": "Run",
-    "Application.Mul.executor": "Run",
-    "Application.Multiplication_five.executor": "Run",
-    "Application.Multiplication_seven.executor": "Run",
-    "Application.NewOperator.executor": "Run",
-    "Application.OOPs_car2.executor": "Run",
-    "Application.OOps.executor": "Run",
-    "Application.OOps_con.executor": "Run",
-    "Application.Odd_Even_program.executor": "Run",
-    "Application.One_Ten.executor": "Run",
-    "Application.Operators.executor": "Run",
-    "Application.Param_con.executor": "Run",
-    "Application.Pattern.executor": "Run",
-    "Application.Person_Vote.executor": "Run",
-    "Application.Prime_num.executor": "Run",
-    "Application.RealExample.executor": "Run",
-    "Application.Relational_Operators.executor": "Run",
-    "Application.Reverse.executor": "Run",
-    "Application.Reverse_num.executor": "Run",
-    "Application.RightAngle_Triangle.executor": "Run",
-    "Application.Scp_Heap.executor": "Run",
-    "Application.Second_Largest.executor": "Run",
-    "Application.Single_inheritance.executor": "Run",
-    "Application.Smallest_Three.executor": "Run",
-    "Application.Smallest_Two.executor": "Run",
-    "Application.String_functions.executor": "Run",
-    "Application.String_functions1.executor": "Run",
-    "Application.String_functions2.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.Sum10.executor": "Run",
-    "Application.Switch_Interviewq.executor": "Run",
-    "Application.Switch_Interviewq3.executor": "Run",
-    "Application.Switch_Jdk_13concept.executor": "Run",
-    "Application.Switch_basics.executor": "Run",
-    "Application.Switch_interviewq4.executor": "Run",
-    "Application.Table.executor": "Run",
-    "Application.Table_9.executor": "Run",
-    "Application.Task.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "Application.Task_one_ten.executor": "Run",
-    "Application.Ternary_operator.executor": "Run",
-    "Application.To.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.Unaryoperator.executor": "Run",
-    "Application.User_Input.executor": "Run",
-    "Application.User_defined.executor": "Run",
-    "Application.User_input_string.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "Application.Variables1.executor": "Run",
-    "Application.Vowel_Consonant.executor": "Run",
-    "Application.While.executor": "Run",
-    "Application.While1.executor": "Run",
-    "Application.While2.executor": "Run",
-    "Application.While3.executor": "Run",
-    "Application.While4.executor": "Run",
-    "Application.ex_Stringbuffer_StringBuilder.executor": "Run",
-    "Application.ex_concat_append.executor": "Run",
-    "Application.increment_decrement.executor": "Run",
-    "Application.increment_decrementp.executor": "Run",
-    "Application.literals.Age_classification1.executor": "Run",
-    "Application.literals.CLi.executor": "Run",
-    "Application.literals.Max_two.executor": "Coverage",
-    "Application.literals_iq.executor": "Run",
-    "Application.max_program.executor": "Run",
-    "Application.one_hundred.executor": "Run",
-    "Application.positive_negative.executor": "Run",
-    "Application.switch_Interviewq2.executor": "Run",
-    "Application.user_defined_one.executor": "Run",
-    "Application.variable.executor": "Run",
-    "Application.variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ALLoperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AND.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Age_classification.executor&quot;: &quot;Run&quot;,
+    &quot;Application.And_Or.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_1D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Reverseorder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_String1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_Foreach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_InterviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atb10x.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Atbx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bodmas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cats.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Char_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparison_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Concat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Concat_Plus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Const.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Do_while.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Do_while1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_Odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_no.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even_one_fifty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Final.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_interview4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_interview6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_interviewq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_interviewq2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_interviewq3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For_ten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Forloop_decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Forloop_interviewq7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Forloop_interviewq8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Geetha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hacker_Rank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello_five.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_else_Interviewq1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_else_Interviewq2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_else_Scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_else_scanner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_elseif_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_interviewq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceOf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Instancevariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_q.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_q4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_q5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_q6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interview_to.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interviewq2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inverted_Pyramidpattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inverted_Rightangletriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_HelloWorldProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_shortcut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003_NoMainMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab005_Multicomments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006_comments_shortcut.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_Keyword_identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010_Common_Math.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0112.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab011_Common_Math_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012_println_print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab015_Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab016_variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab019_interview_QnA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_159.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_180.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_181.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_182.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_183.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_184.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_185.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_186_Interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_187_interface_p2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LamidaExpression_Withoutbreak.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Leap_year.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Length_CharAt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Literals2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Literals3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Literals_p3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalVariable2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logicaloperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mark_Grade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Math_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_two.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_Three.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Min.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Modulas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mul.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleInheritance_interface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication_five.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication_seven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPs_car2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOps.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOps_con.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Odd_Even_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.One_Ten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Param_con.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person_Vote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime_num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Real.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RealExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relational_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse_num.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightAngle_Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scp_Heap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Single_inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Three.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Two.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static_Sib.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static_p2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_functions1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_functions2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Interviewq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Interviewq3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_Jdk_13concept.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch_interviewq4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Table_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_one_ten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternary_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.To.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unaryoperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User_defined.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User_input_string.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vowel_Consonant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_Stringbuffer_StringBuilder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex_concat_append.executor&quot;: &quot;Run&quot;,
+    &quot;Application.increment_decrement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.increment_decrementp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.literals.Age_classification1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.literals.CLi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.literals.Max_two.executor&quot;: &quot;Coverage&quot;,
+    &quot;Application.literals_iq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.max_program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.one_hundred.executor&quot;: &quot;Run&quot;,
+    &quot;Application.positive_negative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switch_Interviewq2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.user_defined_one.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lenovo/IdeaProjects/LearningATB10Xjava/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lab_181">
-    <configuration name="Enc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulation.Enc" />
+}</component>
+  <component name="RunManager" selected="Application.MultipleInheritance_interface">
+    <configuration name="Lab_186_Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superabstraction.Lab_186_Interface" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="encapsulation.*" />
+          <option name="PATTERN" value="superabstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_180" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="superkeyword.Lab_180" />
+    <configuration name="Lab_187_interface_p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superabstraction.Lab_187_interface_p2" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="superkeyword.*" />
+          <option name="PATTERN" value="superabstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,12 +300,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="superkeyword.Lab_181" />
+    <configuration name="MultipleInheritance_interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="superabstraction.MultipleInheritance_interface" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="superkeyword.*" />
+          <option name="PATTERN" value="superabstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +313,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Modifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="police.Modifiers" />
+    <configuration name="Real" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="statickeyword.Real" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="police.*" />
+          <option name="PATTERN" value="statickeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RealExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymerphism.RealExample" />
+    <configuration name="Static_Sib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="statickeyword.Static_Sib" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymerphism.*" />
+          <option name="PATTERN" value="statickeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,19 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab_180" />
-      <item itemvalue="Application.Lab_181" />
-      <item itemvalue="Application.Enc" />
-      <item itemvalue="Application.Modifiers" />
-      <item itemvalue="Application.RealExample" />
+      <item itemvalue="Application.Lab_187_interface_p2" />
+      <item itemvalue="Application.Lab_186_Interface" />
+      <item itemvalue="Application.MultipleInheritance_interface" />
+      <item itemvalue="Application.Real" />
+      <item itemvalue="Application.Static_Sib" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_181" />
-        <item itemvalue="Application.Lab_180" />
-        <item itemvalue="Application.Modifiers" />
-        <item itemvalue="Application.Enc" />
-        <item itemvalue="Application.RealExample" />
+        <item itemvalue="Application.MultipleInheritance_interface" />
+        <item itemvalue="Application.Lab_187_interface_p2" />
+        <item itemvalue="Application.Lab_186_Interface" />
+        <item itemvalue="Application.Real" />
+        <item itemvalue="Application.Static_Sib" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743499244077</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="15th feb 2025-p2">
+      <option name="closed" value="true" />
+      <created>1743517161004</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743517161004</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -509,7 +527,8 @@
     <MESSAGE value="9th feb 2025" />
     <MESSAGE value="9th feb 2025-p2" />
     <MESSAGE value="15th feb 2025-p1" />
-    <option name="LAST_COMMIT_MESSAGE" value="15th feb 2025-p1" />
+    <MESSAGE value="15th feb 2025-p2" />
+    <option name="LAST_COMMIT_MESSAGE" value="15th feb 2025-p2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -548,6 +567,11 @@
           <url>file://$PROJECT_DIR$/src/arrayprograms/Atb10x.java</url>
           <line>7</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/superabstraction/Lab_182.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/loops/Feb7th_task/one_hundred.java</url>
@@ -701,6 +725,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/superabstraction/Lab_184.java</url>
+          <line>3</line>
+          <properties class="superabstraction.Lab_184" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/superabstraction/Lab_186_Interface.java</url>
+          <line>3</line>
+          <properties class="superabstraction.Lab_186_Interface" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
