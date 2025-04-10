@@ -4,33 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="16th feb 2025">
-      <change afterPath="$PROJECT_DIR$/src/Generics/Generic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumprgms/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumprgms/Enum_p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumprgms/enum_p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Checked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Custom_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/EC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Exception3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Exception4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Interview_Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Interview_Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Interview_Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Interviewq5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/JR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Multiple_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Throws.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/try_catch_finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statickeyword/Static_p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wrapperclasses/wraper_class.java" afterDir="false" />
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="22th feb 2025-p1">
+      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList_Interviewq1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/List1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Nested_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Vector1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/statickeyword/Real.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/statickeyword/Real.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +65,10 @@
     "Application.Array2.executor": "Run",
     "Application.Array3.executor": "Run",
     "Application.Array4.executor": "Run",
+    "Application.ArrayList.executor": "Run",
+    "Application.ArrayList1.executor": "Run",
+    "Application.ArrayList_Interviewq1.executor": "Run",
+    "Application.ArrayList_input.executor": "Run",
     "Application.Array_1D.executor": "Run",
     "Application.Array_Reverseorder.executor": "Run",
     "Application.Array_String1.executor": "Run",
@@ -196,6 +183,8 @@
     "Application.Largest_3.executor": "Run",
     "Application.Leap_year.executor": "Run",
     "Application.Length_CharAt.executor": "Run",
+    "Application.List.executor": "Run",
+    "Application.List1.executor": "Run",
     "Application.Literals.executor": "Run",
     "Application.Literals2.executor": "Run",
     "Application.Literals3.executor": "Run",
@@ -218,6 +207,7 @@
     "Application.Multiple_program.executor": "Run",
     "Application.Multiplication_five.executor": "Run",
     "Application.Multiplication_seven.executor": "Run",
+    "Application.Nested_ArrayList.executor": "Run",
     "Application.NewOperator.executor": "Run",
     "Application.OOPs_car2.executor": "Run",
     "Application.OOps.executor": "Run",
@@ -271,6 +261,7 @@
     "Application.User_input_string.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.Variables1.executor": "Run",
+    "Application.Vector1.executor": "Run",
     "Application.Vowel_Consonant.executor": "Run",
     "Application.While.executor": "Run",
     "Application.While1.executor": "Run",
@@ -306,13 +297,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.program1">
-    <configuration name="Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Generic" />
+  <component name="RunManager" selected="Application.ArrayList_input">
+    <configuration name="ArrayList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.ArrayList1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,12 +311,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interview_Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.Interview_Q3" />
+    <configuration name="ArrayList_Interviewq1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_Interviewq1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interviewq5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.Interviewq5" />
+    <configuration name="ArrayList_input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_input" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.Throws" />
+    <configuration name="Nested_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Nested_ArrayList" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.program1" />
+    <configuration name="Vector1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Vector1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,19 +364,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Generic" />
-      <item itemvalue="Application.Interview_Q3" />
-      <item itemvalue="Application.Interviewq5" />
-      <item itemvalue="Application.Throws" />
-      <item itemvalue="Application.program1" />
+      <item itemvalue="Application.ArrayList1" />
+      <item itemvalue="Application.ArrayList_Interviewq1" />
+      <item itemvalue="Application.ArrayList_input" />
+      <item itemvalue="Application.Nested_ArrayList" />
+      <item itemvalue="Application.Vector1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.program1" />
-        <item itemvalue="Application.Generic" />
-        <item itemvalue="Application.Interviewq5" />
-        <item itemvalue="Application.Interview_Q3" />
-        <item itemvalue="Application.Throws" />
+        <item itemvalue="Application.ArrayList_input" />
+        <item itemvalue="Application.ArrayList_Interviewq1" />
+        <item itemvalue="Application.Nested_ArrayList" />
+        <item itemvalue="Application.ArrayList1" />
+        <item itemvalue="Application.Vector1" />
       </list>
     </recent_temporary>
   </component>
@@ -550,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743642449680</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="22th feb 2025-p1">
+      <option name="closed" value="true" />
+      <created>1744113269350</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744113269350</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -570,7 +569,8 @@
     <MESSAGE value="15th feb 2025-p1" />
     <MESSAGE value="15th feb 2025-p2" />
     <MESSAGE value="16th feb 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="16th feb 2025" />
+    <MESSAGE value="22th feb 2025-p1" />
+    <option name="LAST_COMMIT_MESSAGE" value="22th feb 2025-p1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -803,6 +803,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/collection/List1.java</url>
+          <line>6</line>
+          <properties class="collection.List1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/collection/Vector1.java</url>
+          <line>4</line>
+          <properties class="collection.Vector1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
