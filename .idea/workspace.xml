@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="23rd feb 2025-p1">
-      <change afterPath="$PROJECT_DIR$/src/collection/AL_LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList_Iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/LL_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList_Class_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/ArrayList_Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/ArrayList_Iteration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,9 @@
     "Application.Array4.executor": "Run",
     "Application.ArrayList.executor": "Run",
     "Application.ArrayList1.executor": "Run",
+    "Application.ArrayList_Class_Element.executor": "Run",
     "Application.ArrayList_Interviewq1.executor": "Run",
+    "Application.ArrayList_Iteration.executor": "Run",
     "Application.ArrayList_input.executor": "Run",
     "Application.Array_1D.executor": "Run",
     "Application.Array_Reverseorder.executor": "Run",
@@ -227,6 +230,7 @@
     "Application.Single_inheritance.executor": "Run",
     "Application.Smallest_Three.executor": "Run",
     "Application.Smallest_Two.executor": "Run",
+    "Application.Stack1.executor": "Run",
     "Application.Static.executor": "Run",
     "Application.Static_Sib.executor": "Run",
     "Application.Static_p2.executor": "Run",
@@ -294,7 +298,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayList_Iteration">
+  <component name="RunManager" selected="Application.ArrayList_Class_Element">
     <configuration name="AL_LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.AL_LL" />
       <module name="LearningATB10xjava" />
@@ -308,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Interviewq1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_Interviewq1" />
+    <configuration name="ArrayList_Class_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_Class_Element" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
@@ -334,19 +338,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_input" />
-      <module name="LearningATB10xjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LL_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.LL_list" />
       <module name="LearningATB10xjava" />
@@ -360,20 +351,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.Stack1" />
+      <module name="LearningATB10xjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.ArrayList_Class_Element" />
+      <item itemvalue="Application.Stack1" />
       <item itemvalue="Application.AL_LL" />
-      <item itemvalue="Application.ArrayList_Interviewq1" />
       <item itemvalue="Application.ArrayList_Iteration" />
-      <item itemvalue="Application.ArrayList_input" />
       <item itemvalue="Application.LL_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayList_Class_Element" />
+        <item itemvalue="Application.Stack1" />
         <item itemvalue="Application.ArrayList_Iteration" />
         <item itemvalue="Application.AL_LL" />
         <item itemvalue="Application.LL_list" />
-        <item itemvalue="Application.ArrayList_input" />
-        <item itemvalue="Application.ArrayList_Interviewq1" />
       </list>
     </recent_temporary>
   </component>
@@ -554,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744283475418</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="23rd feb 2025-p1">
+      <option name="closed" value="true" />
+      <created>1744289718868</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744289718868</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -841,6 +853,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/collection/ArrayList_Class_Element.java</url>
+          <line>5</line>
+          <properties class="collection.ArrayList_Class_Element" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
