@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="23rd feb 2025-p2">
-      <change afterPath="$PROJECT_DIR$/src/queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/Hashset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/Set1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set/Set_HS_LHS_TS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Hashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map_Iterate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map_real.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map_within_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/map1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Vector1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,6 +132,7 @@
     "Application.Generic.executor": "Run",
     "Application.Hacker_Rank.executor": "Run",
     "Application.Hashset.executor": "Run",
+    "Application.Hashtable1.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Hello_five.executor": "Run",
@@ -193,6 +196,9 @@
     "Application.Literals_p3.executor": "Run",
     "Application.LocalVariable2.executor": "Run",
     "Application.Logicaloperator.executor": "Run",
+    "Application.Map2.executor": "Run",
+    "Application.Map3.executor": "Run",
+    "Application.Map_Iterate.executor": "Run",
     "Application.Mark_Grade.executor": "Run",
     "Application.Marks.executor": "Run",
     "Application.Math_program.executor": "Run",
@@ -283,6 +289,7 @@
     "Application.literals.CLi.executor": "Run",
     "Application.literals.Max_two.executor": "Coverage",
     "Application.literals_iq.executor": "Run",
+    "Application.map1.executor": "Run",
     "Application.max_program.executor": "Run",
     "Application.one_hundred.executor": "Run",
     "Application.positive_negative.executor": "Run",
@@ -303,13 +310,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Queue">
-    <configuration name="ArrayList_Class_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_Class_Element" />
+  <component name="RunManager" selected="Application.Hashtable1">
+    <configuration name="Hashtable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Hashtable1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Hashset" />
+    <configuration name="Map2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Map2" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +337,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue.Queue" />
+    <configuration name="Map3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Map3" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +350,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Set1" />
+    <configuration name="Map_Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Map_Iterate" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,12 +363,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Set_HS_LHS_TS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Set_HS_LHS_TS" />
+    <configuration name="map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.map1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hashset" />
-      <item itemvalue="Application.Queue" />
-      <item itemvalue="Application.Set1" />
-      <item itemvalue="Application.Set_HS_LHS_TS" />
-      <item itemvalue="Application.ArrayList_Class_Element" />
+      <item itemvalue="Application.Hashtable1" />
+      <item itemvalue="Application.Map2" />
+      <item itemvalue="Application.Map3" />
+      <item itemvalue="Application.Map_Iterate" />
+      <item itemvalue="Application.map1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Queue" />
-        <item itemvalue="Application.Hashset" />
-        <item itemvalue="Application.Set_HS_LHS_TS" />
-        <item itemvalue="Application.Set1" />
-        <item itemvalue="Application.ArrayList_Class_Element" />
+        <item itemvalue="Application.Hashtable1" />
+        <item itemvalue="Application.Map_Iterate" />
+        <item itemvalue="Application.Map3" />
+        <item itemvalue="Application.Map2" />
+        <item itemvalue="Application.map1" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +586,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744386704214</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="23rd feb 2025-p2">
+      <option name="closed" value="true" />
+      <created>1744441567742</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744441567742</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -890,6 +905,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/map/Hashtable.java</url>
+          <line>5</line>
+          <properties class="map.Hashtable1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
