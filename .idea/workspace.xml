@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="23rd feb 2025-p1">
-      <change afterPath="$PROJECT_DIR$/src/collection/ArrayList_Class_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Stack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/Student.java" afterDir="false" />
+    <list default="true" id="4e088392-6926-4a1b-96d6-a51940aa7f40" name="Changes" comment="23rd feb 2025-p2">
+      <change afterPath="$PROJECT_DIR$/src/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Hashset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Set1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/Set_HS_LHS_TS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/collection/ArrayList_Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/ArrayList_Iteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/Vector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/Vector1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +129,7 @@
     "Application.Geetha.executor": "Run",
     "Application.Generic.executor": "Run",
     "Application.Hacker_Rank.executor": "Run",
+    "Application.Hashset.executor": "Run",
     "Application.Hello.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.Hello_five.executor": "Run",
@@ -219,6 +221,7 @@
     "Application.Pattern.executor": "Run",
     "Application.Person_Vote.executor": "Run",
     "Application.Prime_num.executor": "Run",
+    "Application.Queue.executor": "Run",
     "Application.Real.executor": "Run",
     "Application.RealExample.executor": "Run",
     "Application.Relational_Operators.executor": "Run",
@@ -227,6 +230,8 @@
     "Application.RightAngle_Triangle.executor": "Run",
     "Application.Scp_Heap.executor": "Run",
     "Application.Second_Largest.executor": "Run",
+    "Application.Set1.executor": "Run",
+    "Application.Set_HS_LHS_TS.executor": "Run",
     "Application.Single_inheritance.executor": "Run",
     "Application.Smallest_Three.executor": "Run",
     "Application.Smallest_Two.executor": "Run",
@@ -298,20 +303,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayList_Class_Element">
-    <configuration name="AL_LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.AL_LL" />
-      <module name="LearningATB10xjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Queue">
     <configuration name="ArrayList_Class_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection.ArrayList_Class_Element" />
       <module name="LearningATB10xjava" />
@@ -325,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.ArrayList_Iteration" />
+    <configuration name="Hashset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Hashset" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LL_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.LL_list" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.Queue" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,12 +343,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.Stack1" />
+    <configuration name="Set1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Set1" />
       <module name="LearningATB10xjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Set_HS_LHS_TS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Set_HS_LHS_TS" />
+      <module name="LearningATB10xjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,19 +370,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Hashset" />
+      <item itemvalue="Application.Queue" />
+      <item itemvalue="Application.Set1" />
+      <item itemvalue="Application.Set_HS_LHS_TS" />
       <item itemvalue="Application.ArrayList_Class_Element" />
-      <item itemvalue="Application.Stack1" />
-      <item itemvalue="Application.AL_LL" />
-      <item itemvalue="Application.ArrayList_Iteration" />
-      <item itemvalue="Application.LL_list" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.Hashset" />
+        <item itemvalue="Application.Set_HS_LHS_TS" />
+        <item itemvalue="Application.Set1" />
         <item itemvalue="Application.ArrayList_Class_Element" />
-        <item itemvalue="Application.Stack1" />
-        <item itemvalue="Application.ArrayList_Iteration" />
-        <item itemvalue="Application.AL_LL" />
-        <item itemvalue="Application.LL_list" />
       </list>
     </recent_temporary>
   </component>
@@ -566,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744289718868</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="23rd feb 2025-p2">
+      <option name="closed" value="true" />
+      <created>1744386704214</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744386704214</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -588,7 +601,8 @@
     <MESSAGE value="16th feb 2025" />
     <MESSAGE value="22th feb 2025-p1" />
     <MESSAGE value="23rd feb 2025-p1" />
-    <option name="LAST_COMMIT_MESSAGE" value="23rd feb 2025-p1" />
+    <MESSAGE value="23rd feb 2025-p2" />
+    <option name="LAST_COMMIT_MESSAGE" value="23rd feb 2025-p2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -637,6 +651,11 @@
           <url>file://$PROJECT_DIR$/src/collection/ArrayList_input.java</url>
           <line>10</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/set/Hashset.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/loops/Feb7th_task/one_hundred.java</url>
@@ -862,6 +881,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/set/Set1.java</url>
+          <line>6</line>
+          <properties class="set.Set1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
